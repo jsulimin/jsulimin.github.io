@@ -3,7 +3,9 @@ import originalTheme from "@lekoarts/gatsby-theme-jodie/src/gatsby-plugin-theme-
 
 const theme = merge(originalTheme, {
   fonts: {
-    body: `"Work Sans", -apple-system, BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"`,
+    heading: `"Arial"`,
+    body: `"Arial"`,
+    monospace: `"Arial"`
   },
 })
 
