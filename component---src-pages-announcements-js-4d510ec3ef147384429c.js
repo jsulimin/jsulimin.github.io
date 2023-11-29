@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjodie=self.webpackChunkjodie||[]).push([[635],{5208:function(e,n,u){u.r(n),u.d(n,{default:function(){return t}});u(7294);function t(){return"Hello world"}}}]);
+//# sourceMappingURL=component---src-pages-announcements-js-4d510ec3ef147384429c.js.map
