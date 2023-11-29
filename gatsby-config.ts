@@ -26,7 +26,7 @@ const config: GatsbyConfig = {
         navigation: [
           { name: `About`, slug: `/about` },
           { name: `Our Story`, slug: `/ourstory` },
-          { name: `More Info`, slug: `/moreinfo` },
+          { name: `Chat`, slug: `/chat` },
           { name: `RSVP`, slug: `/rsvp` },
         ],
       },
